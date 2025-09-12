@@ -1,0 +1,85 @@
+- title: Mechanics I
+  activities:
+  - title: L1
+    start: 2019-09-01
+    lasts: 2 year
+    
+- title: Mechanics II
+  activities:
+  - title: L1
+    start: 2019-09-01
+    lasts: 4 year
+    
+- title: Electromagnetism 
+  activities:
+  - title: L1
+    start: 2019-09-01
+    lasts: 4 year    
+   
+- title: Geometric Optics
+  activities:
+  - title: L1
+    start: 2019-09-01
+    lasts: 2 year
+    activities:
+    - skip: 1 year
+    - title: L1
+      lasts: 3 year
+
+- title: Structure Materials  
+  activities:
+  - title: L3
+    start: 2019-09-01
+    lasts: 6 year
+
+- title: Structural and Electronic Properties of Solids  
+  activities:
+  - title: M2
+    start: 2019-09-01
+    lasts: 1 year
+    activities:
+    - skip: 1 year
+    - title: M2
+      lasts: 4 year
+ 
+- title: Experimental Project
+  activities:
+  - title: L3
+    start: 2022-09-01
+    lasts: 1 year
+    activities:
+    - skip: 1 year
+    - title: L3
+      lasts: 1 year
+  
+- title: Electromagnetism  
+  activities:
+  - title: L3
+    start: 2023-09-01
+    lasts: 2 year
+
+- title: Condensed Matter Physics 
+  activities:
+  - title: M1
+    start: 2020-09-01
+    lasts: 1 year
+    activities:
+    - skip: 1 year
+    - title: M1
+      lasts: 1 year    
+      activities:
+        - skip: 1 year
+        - title: M1
+          lasts: 1 year   
+
+- title: Brossel and frequency doubling  
+  activities:
+  - title: M1
+    start: 2022-09-01
+    lasts: 2 year
+    
+- title: Quantum Hardware 
+  activities:
+  - title: M1
+    start: 2023-09-01
+    lasts: 2 year
