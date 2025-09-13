@@ -14,8 +14,11 @@
   activities:
   - title: L1
     start: 2019-09-01
-    lasts: 4 year    
-   
+    lasts: 3 year    
+  - title: L3
+    start: 2023-09-01
+    lasts: 2 year 
+
 - title: Geometric Optics
   activities:
   - title: L1
@@ -29,8 +32,8 @@
 - title: Structure Materials  
   activities:
   - title: L3
-    start: 2019-09-01
-    lasts: 6 year
+    start: 2020-09-01
+    lasts: 5 year
 
 - title: Structural and Electronic Properties of Solids  
   activities:
@@ -51,12 +54,6 @@
     - skip: 1 year
     - title: L3
       lasts: 1 year
-  
-- title: Electromagnetism  
-  activities:
-  - title: L3
-    start: 2023-09-01
-    lasts: 2 year
 
 - title: Condensed Matter Physics 
   activities:
