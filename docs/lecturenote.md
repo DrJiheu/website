@@ -3,9 +3,9 @@ hide:
   - toc
 ---
 
-[Electromagnetism (EM1-D2PFO)](/notes/Electromagnetism)
+[Electromagnetism (EM1-D2PFO)](Electromagnetism/)
 
-[Geometric Optics (L1)](/notes/Geometric%20Optics)
+[Geometric Optics](Geometric%20Optics/)
 
 STM Practical (M1) - Sur demande
 

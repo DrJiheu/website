@@ -70,13 +70,13 @@ My research focuses on correlations and dynamics at the atomic scale of quantum 
 
 - title: Postdoctoral Researcher
   sub_title: 2017–2018
-  content: Hamburg University, [Prof. Wiesendanger’s group](http://www.nanoscience.de/HTML/index.html) — ASTONISH ERC
+  content: Hamburg University, [Prof. Wiesendanger’s group](http://www.nanoscience.de/HTML/index.html)
 
 - title: Alexander von Humboldt [Postdoctoral Research Fellow](https://www.humboldt-foundation.de/en/)
   sub_title: 2015–2017
-  content: Hamburg University
+  content: Hamburg University, [Prof. Wiesendanger’s group](http://www.nanoscience.de/HTML/index.html)
 
-- title: PhD
+- title: PhD Student
   sub_title: 2011–2014
   content: University Grenoble Alpes ([CEA/Imapec Team](https://www.pheliqs.fr/Pages/Imapec/Presentation.aspx))
 ::/timeline::

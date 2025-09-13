@@ -2,6 +2,7 @@ site_name: Alexandra Palacio Morales
 theme:
   name: material
   logo: assets/images/logo.png
+  favicon: assets/images/favicon.png
 palette:
   scheme: slate  # or 'default' for light
 font:

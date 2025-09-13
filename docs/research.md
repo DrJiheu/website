@@ -5,20 +5,21 @@ hide:
 # Research Overview
 
 ## Scientific Profile
-Alexandra Palacio Morales is a **condensed matter physicist** and **assistant professor at Université Paris-Saclay (LPS, NS2 group)**.  
+Alexandra Palacio Morales is a **condensed matter physicist** and **associate professor at Université Paris-Saclay (LPS, NS2 group)**.  
 Her research focuses on **quantum phenomena at the atomic scale**, studied by **low-temperature scanning tunneling microscopy and spectroscopy (STM/STS)**.
 
 ## Main directions:
+- **In progress**: Development of a next-generation **Electron Spin Resonance–STM** for low-temperature measurements with integrated **shot-noise detection**.
 - **Magnet–superconductor hybrid systems**: Investigation of **Yu–Shiba–Rusinov (YSR) states**, **Majorana bound states**, and engineered **topological superconductivity**.  
 - **Correlated dynamics at the atomic scale**: Using STM-based **noise spectroscopy** to access spin and charge dynamics beyond static spectroscopy.  
-- **Two-dimensional quantum materials**: Study of correlation effects and impurity-driven phase transitions in Fe-based superconductors and related systems.  
+- **Two-dimensional quantum materials**: Study of correlation effects and impurity-driven phase transitions in transition metal dichalcogenides, in Fe-based superconductors and related systems.  
 
 ## Key Scientific Contributions
 - **Real-space visualization of 2D Majorana edge modes** (Science Advances, 2019): Demonstrated the emergence of **topological superconductivity** in Fe islands on Re(0001)-O, pioneering the role of atomic-scale interface engineering.  
 - **Magnetic atomic chains on superconductors** (Science Advances, 2018): Contribution to the **design and control of atomic-scale platforms** for realizing Majorana states.  
 - **Dynamical spectroscopy of Yu–Shiba–Rusinov states** (PRL, 2022): First **atomic-scale shot-noise spectroscopy**, revealing coherent/incoherent tunneling dynamics of YSR states.  
-- **Quantum phase transitions in Fe-based superconductors** (Nature Communications, 2024): Co-discovery of a **multi-channel quantum phase transition mediated by Hund’s exchange** in Fe(Se,Te).  
-- **Earlier work**: Contributions to the study of **heavy-fermion systems** (CeRh₂Si₂, UBe₁₃, UCoAl) via thermoelectric measurements and quantum oscillations.  
+- **Quantum phase transitions in Fe-based superconductors** (Nature Communications, 2024): Unveiling of a **multi-channel quantum phase transition mediated by Hund’s exchange** in Fe(Se,Te).  
+- **Earlier work**: Contributions to the study of **heavy-fermion systems** (UCoAl, CeRh₂Si₂, UBe₁₃) via thermoelectric measurements and quantum oscillations under pressure and high magnetic field..  
 
 ## Funded Projects
 
@@ -47,14 +48,6 @@ Her research focuses on **quantum phenomena at the atomic scale**, studied by **
       <li>ANR PCR22-TOSCA (local coordinator at LPS, €50k)</li>
       <li>ANR JCJC21 MMNoISE</li>
       <li>ANR PCR21 TRIPRES</li>
-    </ul>
-
-
-
-    <strong>Also involved in other significant funding</strong>
-    <ul style="margin:100; padding:0; line-height:1;">
-      <li>ANR-22-CE30-0037 (linked to recent works on impurity-driven transitions)</li>
-      <li>ANR-21-CE30-0017-01</li>
     </ul>
 
 </ul>

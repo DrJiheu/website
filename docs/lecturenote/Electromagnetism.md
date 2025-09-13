@@ -4,9 +4,9 @@ hide:
 password: "secret"
 ---
 - Cours
-	- [Concepts Fondamentaux](./downloads/Courses/Cours_EM1_Concepts_Fondamentaux_2025_Alexandra_Palacio_Morales.pdf)
+	- [Concepts Fondamentaux](downloads/Courses/Cours_EM1_Concepts_Fondamentaux_2025_Alexandra_Palacio_Morales.pdf)
 
-- [TD](./downloads/TD/TD_français_090925.pdf)
+- [TD](downloads/TD/TD_français_090925.pdf)
 	- [Solution TD 1]()
 	- [Solution TD 2]()
 	- [Solution TD 3]()
